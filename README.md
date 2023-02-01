@@ -13,7 +13,7 @@ cargo install cargo-generate
 ```
 2. Generate your procedural macro crate project:
 ```bash
-cargo generate --git https://github.com/eupn/rust-procmacro-quickstart-template --name projectname
+cargo generate --git https://github.com/x0f5c3/rust-procmacro-quickstart-template --name projectname
 ```
 3. Run generated template project:
 ```bash
